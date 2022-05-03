@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### :fire: My stats
+[![JohnsonLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsonlee-debug)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonlee-debug&hide=c,perl,html,vim%20script,javascript,makefile,shell,tex,kotlin,css,assembly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
